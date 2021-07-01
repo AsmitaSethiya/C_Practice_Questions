@@ -4,7 +4,7 @@ void main()
 {
     int choice;
     float base, height, area, width, length, radius, side;
-    printf("Enter\n1 for Triangle\n2 for Square\n3 for Rectangle\n4 for Parallelogram\n");
+    printf("Enter\n1 for Triangle\n2 for Rectangle\n3 for Circle\n4 for Square\n5 for Parallelogram\n");
     scanf("%d", &choice);
     
     switch(choice)
